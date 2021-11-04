@@ -1,0 +1,19 @@
+{
+    "name": "joohncafe/microservices-common",
+    "description": "Package header microservices",
+    "type": "libary",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Joohncafe\\MicroservicesCommon\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "John Mayk",
+            "email": "x1john@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
